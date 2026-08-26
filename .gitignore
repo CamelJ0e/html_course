@@ -1,2 +1,3 @@
-# Keep JPEG assets local; do not track them in Git.
+# Keep JPEG and PNG assets local; do not track them in Git.
 *.jpg
+*.png
